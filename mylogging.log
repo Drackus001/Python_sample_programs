@@ -5,3 +5,7 @@ CRITICAL:root:This is critical text
 WARNING:root:This is warning text
 ERROR:root:This is error text
 CRITICAL:root:This is critical text
+ERROR:root:Invalid alias: The name clear can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name more can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name less can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name man can't be aliased because it is another magic command.
